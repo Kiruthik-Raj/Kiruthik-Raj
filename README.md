@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kraj2408" target="blank"><img src="https://img.shields.io/twitter/follow/kraj2408?logo=twitter&style=for-the-badge" alt="kraj2408" /></a> </p>
 
-- 🔭 I’m currently working on **Earthquake Prediction**
+- 🔭 I’m currently working on **Electricity Usage Prediction and usage recommendation**
 
 - 🌱 I’m currently learning **Web Development, Machine Learning and AI**
 
